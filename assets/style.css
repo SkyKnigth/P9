@@ -83,9 +83,6 @@ body {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
-	font-size: 14px;
-	margin-top: 8px;
-	margin-bottom: 16px;
 	width: 60%; 
 }
 #about-me p:not(.about-me__introduction) {
